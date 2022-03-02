@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sausage_Simulator",
+			"Path": "C:\\Users\\maxim\\Desktop\\Sausage Simulator\\Sausage-simulator\\Sausage_Simulator\\Source\\Sausage_Simulator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sausage_SimulatorEditor",
+			"Path": "C:\\Users\\maxim\\Desktop\\Sausage Simulator\\Sausage-simulator\\Sausage_Simulator\\Source\\Sausage_SimulatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

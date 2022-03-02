@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sausage_Simulator.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CAB00BC3-9618-419A-873F-23833184CE09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sausage_Simulator.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Sausage_SimulatorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F48F9A0D-57FE-42AD-BB48-BE5D2494375F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sausage_Simulator">
+      <UniqueIdentifier>{3BD15DDB-BEE3-4EA1-B085-D17138151B4D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sausage_Simulator\Sausage_Simulator.Build.cs">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sausage_Simulator\Sausage_Simulator.cpp">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sausage_Simulator\Sausage_Simulator.h">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sausage_Simulator\Sausage_SimulatorGameModeBase.cpp">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sausage_Simulator\Sausage_SimulatorGameModeBase.h">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
