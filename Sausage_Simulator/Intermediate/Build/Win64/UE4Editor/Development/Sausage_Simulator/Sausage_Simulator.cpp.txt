@@ -1,2 +1,0 @@
-C:\Users\maxim\Desktop\Sausage Simulator\Sausage-simulator\Sausage_Simulator\Intermediate\Build\Win64\UE4Editor\Development\Sausage_Simulator\Definitions.Sausage_Simulator.h
-C:\Users\maxim\Desktop\Sausage Simulator\Sausage-simulator\Sausage_Simulator\Source\Sausage_Simulator\Sausage_Simulator.h
