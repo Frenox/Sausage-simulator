@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Sausage_Simulator.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E498500A-EFCB-4682-90F1-935E13A9C0CE}</UniqueIdentifier>
+      <UniqueIdentifier>{1DEFBE9C-DE8F-4444-BB5F-95EBA6AE49DF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Sausage_Simulator.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{819C6DF8-1CED-44E4-9658-78D69B0F8A16}</UniqueIdentifier>
+      <UniqueIdentifier>{73B98310-62EB-4DD1-9C59-326E8A61C901}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Sausage_Simulator">
-      <UniqueIdentifier>{95FCF48C-2808-497B-A62D-3D0A711D23DD}</UniqueIdentifier>
+      <UniqueIdentifier>{BD914484-72E6-4E0A-97EC-C454D6CDA794}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Sausage_Simulator\PlayerCam.cpp">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sausage_Simulator\PlayerCam.h">
+      <Filter>Source\Sausage_Simulator</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Sausage_Simulator\Sausage_Simulator.Build.cs">
       <Filter>Source\Sausage_Simulator</Filter>
     </None>
@@ -40,6 +46,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Sausage_Simulator\Sausage_SimulatorGameModeBase.h">
       <Filter>Source\Sausage_Simulator</Filter>
+    </ClInclude>
+    <Filter Include="Source\Sausage_Simulator\Private">
+      <UniqueIdentifier>{2716DEC5-F219-4D9B-BCB1-0DF74D9D6A37}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sausage_Simulator\Private\PlayerCamera.cpp">
+      <Filter>Source\Sausage_Simulator\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Sausage_Simulator\Public">
+      <UniqueIdentifier>{0DC9FFFC-07CF-49AE-9DBF-4C4DE0291EBD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Sausage_Simulator\Public\PlayerCamera.h">
+      <Filter>Source\Sausage_Simulator\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

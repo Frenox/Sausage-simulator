@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeSausage_Simulator_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x99B67CCE,
-				0xFB984A4C,
+				0x41CFC559,
+				0xD7BEF247,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
